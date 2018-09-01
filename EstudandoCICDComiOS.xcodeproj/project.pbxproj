@@ -100,10 +100,9 @@
 			isa = PBXGroup;
 			children = (
 				5737B907213AC0A60063C593 /* AppDelegate.swift */,
-				5737B909213AC0A60063C593 /* ViewController.swift */,
-				5737B90B213AC0A60063C593 /* Main.storyboard */,
+				5737B938213AC3AB0063C593 /* Controllers */,
+				5737B939213AC3C90063C593 /* Views */,
 				5737B911213AC0A70063C593 /* Assets.xcassets */,
-				5737B913213AC0A70063C593 /* LaunchScreen.storyboard */,
 				5737B916213AC0A70063C593 /* Info.plist */,
 				5737B90E213AC0A60063C593 /* EstudandoCICDComiOS.xcdatamodeld */,
 			);
@@ -126,6 +125,23 @@
 				5737B92C213AC0A70063C593 /* Info.plist */,
 			);
 			path = EstudandoCICDComiOSUITests;
+			sourceTree = "<group>";
+		};
+		5737B938213AC3AB0063C593 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				5737B909213AC0A60063C593 /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		5737B939213AC3C90063C593 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5737B90B213AC0A60063C593 /* Main.storyboard */,
+				5737B913213AC0A70063C593 /* LaunchScreen.storyboard */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

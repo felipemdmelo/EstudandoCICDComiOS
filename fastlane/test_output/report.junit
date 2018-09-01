@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <testsuites name='EstudandoCICDComiOSTests.xctest' tests='3' failures='0'>
   <testsuite name='EstudandoCICDComiOSUITests.EstudandoCICDComiOSUITests' tests='1' failures='0'>
-    <testcase classname='EstudandoCICDComiOSUITests.EstudandoCICDComiOSUITests' name='testExample' time='3.787'/>
+    <testcase classname='EstudandoCICDComiOSUITests.EstudandoCICDComiOSUITests' name='testExample' time='5.202'/>
   </testsuite>
   <testsuite name='EstudandoCICDComiOSTests.EstudandoCICDComiOSTests' tests='2' failures='0'>
     <testcase classname='EstudandoCICDComiOSTests.EstudandoCICDComiOSTests' name='testExample' time='0.001'/>
-    <testcase classname='EstudandoCICDComiOSTests.EstudandoCICDComiOSTests' name='testPerformanceExample' time='0.291'/>
+    <testcase classname='EstudandoCICDComiOSTests.EstudandoCICDComiOSTests' name='testPerformanceExample' time='0.303'/>
   </testsuite>
 </testsuites>
